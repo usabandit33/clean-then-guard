@@ -1,8 +1,14 @@
 # Contacts — Clean Then Guard (Atlanta)
 
-Phones copied from own sites. No invented inboxes.
+Phones and emails copied from own sites. No invented inboxes.
 
-1. Alexus Gutter Cleaning — (470) 333-2525 — https://alexusguttercleaning.com/ — form on site; no email next to phone on first pass.
-2. High Five Window Cleaning — (404) 369-2350 — https://highfivewindowcleaning.com/gutter-cleaning/ — phone only on first pass.
-3. Advanced Pressure & Gutter Cleaning — (770) 501-8604 — https://www.advancedpressureandgutter.com/services/gutter-services/gutter-cleaning-service — phone in page title; form for contact.
-4. Gutter Masters — (404) 391-9939 — https://guttermastersatlanta.com/services/gutter-cleaning-repair/ — email GutterMastersAtlanta@gmail.com next to the phone.
+## With published email next to / on own site
+1. Gutter Masters — (404) 391-9939 — GutterMastersAtlanta@gmail.com — https://guttermastersatlanta.com/ — T1 sent 2026-10-13
+2. Alexus Gutter Cleaning — (470) 748-6665 — Alexusbestcompany@gmail.com — https://alexusguttercleaning.com/contact/
+3. Gutter Heroes — (770) 257-7769 — info@gutterheroes.org — https://gutterheroes.org/
+4. Gutters 4 Less — (470) 291-4943 — info@gutters4lessga.com — https://www.gutters4lessga.com/
+5. Gutter Bro — (470) 779-2222 — gutterbro.atl@gmail.com — https://www.gutterbro.team/contact-us/
+
+## Phone only (no email next to phone on first pass)
+- High Five Window Cleaning — (404) 369-2350 — https://highfivewindowcleaning.com/gutter-cleaning/
+- Advanced Pressure & Gutter Cleaning — (770) 501-8604 — https://www.advancedpressureandgutter.com/services/gutter-services/gutter-cleaning-service
